@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">exercicios</string>
+    <string name="buma">buma es</string>
+    <string name="vegeta">vegeta es</string>
+    <string name="goku">goku es</string>
+</resources>
